@@ -20,5 +20,5 @@
 #### app_route_welcome <br/>
 #### app_route_precipitation <br/>
 #### app_route_stations <br/>
-#### app_route_<startdate> <br/>
-#### app_route_<startdate><enddate> <br/>
+#### app_route_startdate <br/>
+#### app_route_startdate_enddate <br/>
